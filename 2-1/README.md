@@ -1,4 +1,6 @@
 # 第一次期中考檢查範圍
+**因為是看著輸入的，可能會打錯或算錯**  
+**發現問題或想看詳細計算過程可以思訊我** 
 
 ##  2-1 (hw3~11,14)
 1.   >(a) 19  
@@ -175,4 +177,16 @@
     >(d)∞  
 ***
 ***
- 
+![](https://github.com/archie0732/Thomas_Calculus_12ED_Solution/blob/main/picture/tag/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202023-10-15%20125729.png) 
+
+***
+![](https://github.com/archie0732/Thomas_Calculus_12ED_Solution/blob/main/picture/tag/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202023-10-15%20130348.png)
+***
+![](https://github.com/archie0732/Thomas_Calculus_12ED_Solution/blob/main/picture/ans/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202023-10-15%20130527.png)
+***
+![](https://github.com/archie0732/Thomas_Calculus_12ED_Solution/blob/main/picture/ans/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202023-10-15%20130706.png)
+***
+![](https://github.com/archie0732/Thomas_Calculus_12ED_Solution/blob/main/picture/ans/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202023-10-15%20130751.png)
+***
+## 有任何問題歡迎思訊我
+discord:我是蘿莉控(wsllkfbi)
