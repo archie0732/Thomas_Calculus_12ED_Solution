@@ -1,7 +1,7 @@
 # Thomas_Calculus_12ED_Solution
 
 ## 如何使用github
-* 點我進入
+* [點我進入](https://github.com/archie0732/Thomas_Calculus_12ED_Solution/tree/main/howtousegithub#readme)
 
 ## 第一次月考檢查範圍
 ### 2-1
@@ -21,3 +21,9 @@
 
 ### 2-6
 * [點我進入](https://github.com/archie0732/Thomas_Calculus_12ED_Solution/blob/main/2-1/README.md#2-6-312316167737799100)
+
+## 程式語言作業詳解
+* [點我進入](https://github.com/archie0732/pu-computer-programming-G1-hw)
+
+## function libary
+* [點我進入](https://github.com/archie0732/c-library)
