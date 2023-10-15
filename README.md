@@ -27,3 +27,5 @@
 
 ## function libary
 * [點我進入](https://github.com/archie0732/c-library)
+
+![](https://github.com/archie0732/Thomas_Calculus_12ED_Solution/blob/main/picture/blackgroung/ayaka003.jpg)
