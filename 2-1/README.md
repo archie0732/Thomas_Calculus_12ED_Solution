@@ -79,60 +79,62 @@ $=e
 
 > 作業範圍：15~18, 14, 18, 33, 38, 46, 47
 
-### 15. $f(x)=x+1,\quad L=5,\quad x_0=4,\quad \epsilon=0.01$
+### 15.
+$f(x)=x+1,\quad L=5,\quad x_0=4,\quad \epsilon=0.01$
 
 1. $3.99 \lt x \lt 4.01$  
 2. $0.01$
 
-### 16. $f(x)=2x-2,\quad L=-6,\quad x_0=-2,\quad \epsilon=0.01$
+### 16.
+$f(x)=2x-2,\quad L=-6,\quad x_0=-2,\quad \epsilon=0.01$
 
 1. $-2.01 \lt x \lt -1.99$  
 2. $0.01$
 
-### 17. $f(x)=\sqrt{x+1},\quad L=1,\ x_0=0,\quad \epsilon=0.1$
+### 17.
+$f(x)=\sqrt{x+1},\quad L=1,\ x_0=0,\quad \epsilon=0.1$
 
 1. $-0.19 \lt x \lt 0.21$
 2. $0.19$
 
-### 18. $f(x)=\sqrt{x},\quad L=\frac{1}{2},\quad x_0=\frac{1}{4},\quad \epsilon=0.1$
+### 18.
+$f(x)=\sqrt{x},\quad L=\frac{1}{2},\quad x_0=\frac{1}{4},\quad \epsilon=0.1$
 
 1. $0.16 \lt x \lt 0.36$
 2. $0.09$
 
-***
-[詳解]**尚未上傳**
-***
+> [詳解] **尚未上傳**
 
-### 33. $f(x)=\frac{x^2-9}{x+3},\quad x_0=2,\quad \epsilon=0.05$
+
+### 33.
+$f(x)=\frac{x^2-9}{x+3},\quad x_0=2,\quad \epsilon=0.05$
 
 1. $1.95 \lt x \lt 2.05\ (x≠2)$
 2. $0.05$
 
-### 38. $\lim_{x \to 3}(3x-7)=2$
+### 38.
+$\lim_{x \to 3}(3x-7)=2$
 
 1. $3-\frac{\delta}{3} \lt x \lt 3+\frac{\delta}{3}$
 2. $\frac{\epsilon}{3}$
 
-### 46. $\lim_{x \to 1}\frac{x^2-1}{x-1}=2$
+### 46.
+$\lim_{x \to 1}\frac{x^2-1}{x-1}=2$
 
 1. $1-\epsilon \lt x \lt 1+\epsilon$
 2. $\epsilon$
 
-<h3>
-
-47.&nbsp;$\lim_{x \to 1}f(x)=2\quad if \quad f(x)=
+### 47.
+$\lim_{x \to 1}f(x)=2\quad if \quad f(x)=
 \begin{cases}
     4-2x, & x \lt 1\\
     6x-4, & x \ge 1
 \end{cases}$
 
-</h3>
-
 1. $1 \lt x \lt 1+\frac{\epsilon}{6}$
 2. $\frac{\epsilon}{6}$
 
-***
-[詳解]**尚未上傳**
+> [詳解] **尚未上傳**
 
 
 ## 2-4(13,15,21,28,29,30,35,36,42)
