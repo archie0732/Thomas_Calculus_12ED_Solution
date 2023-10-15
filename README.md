@@ -1,0 +1,23 @@
+# Thomas_Calculus_12ED_Solution
+
+## 如何使用github
+* 點我進入
+
+## 第一次月考檢查範圍
+### 2-1
+* [點我進入](https://github.com/archie0732/Thomas_Calculus_12ED_Solution/blob/main/2-1/README.md#2-1-hw31114)
+
+### 2-2
+* [點我進入](https://github.com/archie0732/Thomas_Calculus_12ED_Solution/blob/main/2-1/README.md#2-2-hw131618194451525360-)
+
+### 2-3
+* [點我進入](https://github.com/archie0732/Thomas_Calculus_12ED_Solution/blob/main/2-1/README.md#2-3-1518141833384647)
+
+### 2-4
+* [點我進入](https://github.com/archie0732/Thomas_Calculus_12ED_Solution/blob/main/2-1/README.md#2-4131521282930353642)
+
+### 2-5
+* [點我進入](https://github.com/archie0732/Thomas_Calculus_12ED_Solution/blob/main/2-1/README.md#2-519242532333539424446)
+
+### 2-6
+* [點我進入](https://github.com/archie0732/Thomas_Calculus_12ED_Solution/blob/main/2-1/README.md#2-6-312316167737799100)
