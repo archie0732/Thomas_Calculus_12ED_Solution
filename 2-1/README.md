@@ -146,6 +146,7 @@
 34. 1 , and function continuous at x=0
 35. √2/2, and function continuous at t
 ***
+[詳解]**尚未上傳**
 ***
 39. 3/2
 40. 8/5
@@ -158,6 +159,7 @@
 
  
  ***
+ [詳解]**尚未上傳**
  ***
  ## 2-6 (3,12,31,61,67,73,77,99,100)
  3. >(a)-3  
@@ -176,6 +178,7 @@
     >(c)∞  
     >(d)∞  
 ***
+[詳解]**尚未上傳**
 ***
 ![](https://github.com/archie0732/Thomas_Calculus_12ED_Solution/blob/main/picture/tag/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202023-10-15%20125729.png) 
 
